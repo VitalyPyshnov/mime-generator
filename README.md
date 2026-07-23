@@ -270,9 +270,3 @@ python create_test_files.py
 ## 🤝 Контакты
 **Репозиторий:** https://github.com/VitalyPyshnov/mime-generator  
 **Назначение:** Тестирование модуля `cust-ibank-check-files`
-
----
-
-## 📄 Лицензия
-
-Свободное использование в рамках тестирования.
