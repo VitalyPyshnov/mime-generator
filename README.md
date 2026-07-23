@@ -268,9 +268,7 @@ python create_test_files.py
 ---
 
 ## 🤝 Контакты
-
-**Автор:** iSimpleLab  
-**Репозиторий:** https://github.com/iSimpleLab/mime-generator  
+**Репозиторий:** https://github.com/VitalyPyshnov/mime-generator  
 **Назначение:** Тестирование модуля `cust-ibank-check-files`
 
 ---
